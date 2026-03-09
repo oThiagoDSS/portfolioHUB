@@ -16,3 +16,10 @@
 * **Student Grade Calculator (Python):** A script developed to calculate weighted averages and determine student status. 
   [View Code Here](https://github.com/oThiagoDSS/portfolioHUB/blob/main/media_aluno_grade.py)
   ![GIF 09-03-2026 11-25-40](https://github.com/user-attachments/assets/16a3bae3-845b-4f07-8c45-ddf92681ac0c)
+
+# Skills & Competencies (Visual Presentation)
+
+![Software Development](slides/1.png)
+![Visual Design](slides/2.png)
+![Hardware Optimization](slides/3.png)
+![Languages & Soft Skills](slides/4.png)
