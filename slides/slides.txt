@@ -1,1 +1,6 @@
-teste
+# Skills & Competencies (Visual Presentation)
+
+![Software Development](assets/NOME_DO_SLIDE_1.png)
+![Visual Design](assets/NOME_DO_SLIDE_2.png)
+![Hardware Optimization](assets/NOME_DO_SLIDE_3.png)
+![Languages & Soft Skills](assets/NOME_DO_SLIDE_4.png)
