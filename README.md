@@ -23,3 +23,8 @@
 ![Visual Design](slides/2.png)
 ![Hardware Optimization](slides/3.png)
 ![Languages & Soft Skills](slides/4.png)
+
+# Recommendations & Testimonials
+
+> ""Thiago demonstrates exceptional seriousness and professionalism in his academic projects. His commitment to technical excellence."" — **Professor of Software Engineering**
+> "Thiago is an outstanding partner who excels in teamwork. His collaborative mindset and willingness to share his technical expertise make him an invaluable asset to any group project." — **ADS Fellow Student**
