@@ -1,4 +1,5 @@
 # Personal Profile / About Me 
+![Thiago](259809830.png)
 > Systems Analysis and Development student with a focus on Software Engineering and Database Systems. I combine technical expertise in hardware optimization and systems performance with a creative background in 3D rendering and professional video editing. Fluent in English, with a strong commitment to technical excellence and efficient workflows.
 * **LinkedIn:** https://www.linkedin.com/in/othiagoo/
 *  **E-mail:** thiagoantos@gmail.com
